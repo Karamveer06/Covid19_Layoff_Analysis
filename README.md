@@ -3,8 +3,12 @@
 •	Created interactive Tableau dashboards to visualize layoff patterns by sector, location, and funding stage.
 ## Project: Company Layoffs Analysis
 
-Analyzed global layoffs using SQL queries on company datasets.
 
-### 🛠 Tech Stack:
-- SQL (PostgreSQL/MySQL/SQLite)  
-- Data Analysis
+
+### 🔧 Tools Used:
+- **SQL** (MySQL syntax)
+- **Data Cleaning & Standardization**
+- **CTEs, Window Functions, GROUP BY, Joins, Rolling Totals**
+
+📁 All queries and analysis are in `Company_layoffs_project.sql`
+
